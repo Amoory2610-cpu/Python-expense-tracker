@@ -4,4 +4,4 @@ def main():
     amount = float(input("Enter amount: "))
     category = input("Enter category: ")
     add_expense(amount, category)
-    print ("Saved succesfully!")
+    print ("Saved successfully!")
