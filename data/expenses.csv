@@ -1,2 +1,5 @@
-amount, category
-50, food50.0,food
+amount,category,date18.0,2,2026-03-23
+2.0,2,2026-03-23
+2.0,food,2026-03-23
+50.0,transport,2026-03-23
+50.0,food,2026-03-23
